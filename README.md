@@ -1,5 +1,7 @@
 # WealthTech Opportunity Discovery
 
+🚀 **Live Demo:** [Open WealthCheck Application](https://wealth-check-amber.vercel.app/)
+
 A responsive, production-style frontend for discovering and evaluating financial opportunities such as Loan Against Securities (LAS).
 
 The application allows users to enter their requirements, discover matching opportunities, search and sort results, inspect opportunity details, compare up to three opportunities, and check eligibility with actionable outcomes.
